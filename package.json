@@ -1,0 +1,24 @@
+{
+  "name": "shower-thoughts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijacksondesign/shower-thoughts.git"
+  },
+  "author": "Ian Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijacksondesign/shower-thoughts/issues"
+  },
+  "homepage": "https://github.com/ijacksondesign/shower-thoughts#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.5"
+  }
+}
